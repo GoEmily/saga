@@ -2,12 +2,15 @@
   "name": "Saga",
   "description": "Saga",
   "version": "0.0.0",
-  "main": "index.js.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node ."
   },
   "dependencies": {
     "discord.js": "11.1.0",
-    "request": "2.81.0"
+    "request": "2.81.0",
+    "dotenv": "8.2.0",
+    "ascii-table": "0.0.9",
+    "common-tags": "1.8.0"
   }
 }
