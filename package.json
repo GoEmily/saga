@@ -1,0 +1,13 @@
+{
+  "name": "Saga",
+  "description": "Saga",
+  "version": "0.0.0",
+  "main": "index.js.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
